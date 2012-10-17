@@ -1,0 +1,30 @@
+u#logo {
+padding: 30px;
+}
+
+ h3 {
+  color:#888;
+  font-size: 40px;
+  padding: 10px;
+}
+
+label {
+color: #888;
+font-size: 25px;
+}
+
+p {
+color:#234144;
+  font-size: 30px;
+ }
+
+@font-face {
+	font-family: "Ubuntu";
+	src: url(/fonts/Ubuntu-Regular.ttf);
+}
+
+#thank-you {
+color: #fff;
+font-family: "Ubuntu";
+font-size: 150px;
+}
